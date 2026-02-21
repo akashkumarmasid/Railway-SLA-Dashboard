@@ -1,0 +1,151 @@
+train_id,train_name,train_type,zone,division,origin,destination,scheduled_duration_mins
+T0001,Vadodara-Rajkot Superfast,Superfast,SR,Chennai,Vadodara,Rajkot,240
+T0002,Lucknow-Ambala Mail/Express,Mail/Express,SR,Chennai,Lucknow,Ambala,180
+T0003,Ambala-Mumbai Central Mail/Express,Mail/Express,WR,Ahmedabad,Ambala,Mumbai Central,720
+T0004,Pune-Delhi Mail/Express,Mail/Express,SCR,Hyderabad,Pune,Delhi,240
+T0005,Ahmedabad-Ranchi Mail/Express,Mail/Express,SCR,Vijayawada,Ahmedabad,Ranchi,180
+T0006,Chakradharpur-CSMT Mumbai Shatabdi,Shatabdi,SR,Salem,Chakradharpur,CSMT Mumbai,180
+T0007,Secunderabad-Trivandrum Passenger,Passenger,NER,Gorakhpur,Secunderabad,Trivandrum,600
+T0008,Chennai-Lucknow Mail/Express,Mail/Express,CR,Nagpur,Chennai,Lucknow,720
+T0009,Rajkot-Madurai Passenger,Passenger,WR,Rajkot,Rajkot,Madurai,480
+T0010,Kharagpur-Asansol Superfast,Superfast,CR,Bhusawal,Kharagpur,Asansol,360
+T0011,Chennai-Asansol Superfast,Superfast,SER,Ranchi,Chennai,Asansol,600
+T0012,Pune-Rajkot Mail/Express,Mail/Express,WR,Ahmedabad,Pune,Rajkot,720
+T0013,Lucknow-Garden Reach Mail/Express,Mail/Express,SER,Garden Reach,Lucknow,Garden Reach,480
+T0014,Garden Reach-Ahmedabad Mail/Express,Mail/Express,CR,CSMT Mumbai,Garden Reach,Ahmedabad,720
+T0015,Varanasi-Sealdah Passenger,Passenger,NER,Izzatnagar,Varanasi,Sealdah,360
+T0016,CSMT Mumbai-Guntur Superfast,Superfast,ER,Sealdah,CSMT Mumbai,Guntur,600
+T0017,Howrah-Izzatnagar Mail/Express,Mail/Express,SCR,Vijayawada,Howrah,Izzatnagar,180
+T0018,Asansol-Guntur Mail/Express,Mail/Express,NR,Delhi,Asansol,Guntur,600
+T0019,Varanasi-CSMT Mumbai Mail/Express,Mail/Express,SR,Salem,Varanasi,CSMT Mumbai,600
+T0020,Pune-Ranchi Superfast,Superfast,NR,Delhi,Pune,Ranchi,180
+T0021,Delhi-CSMT Mumbai Mail/Express,Mail/Express,CR,Bhusawal,Delhi,CSMT Mumbai,600
+T0022,Bhusawal-Mumbai Central Passenger,Passenger,ER,Howrah,Bhusawal,Mumbai Central,240
+T0023,Delhi-Garden Reach Mail/Express,Mail/Express,SER,Ranchi,Delhi,Garden Reach,480
+T0024,Bhusawal-Vadodara Passenger,Passenger,NR,Delhi,Bhusawal,Vadodara,180
+T0025,Izzatnagar-Chennai Shatabdi,Shatabdi,WR,Mumbai Central,Izzatnagar,Chennai,600
+T0026,Asansol-CSMT Mumbai Superfast,Superfast,ER,Sealdah,Asansol,CSMT Mumbai,600
+T0027,Mumbai Central-Bhusawal Passenger,Passenger,SCR,Hyderabad,Mumbai Central,Bhusawal,480
+T0028,Gorakhpur-Salem Passenger,Passenger,SER,Kharagpur,Gorakhpur,Salem,240
+T0029,Rajkot-Delhi Mail/Express,Mail/Express,WR,Mumbai Central,Rajkot,Delhi,180
+T0030,Lucknow-Ranchi Rajdhani,Rajdhani,NR,Ambala,Lucknow,Ranchi,180
+T0031,Ahmedabad-Howrah Superfast,Superfast,WR,Rajkot,Ahmedabad,Howrah,720
+T0032,Vijayawada-Mumbai Central Superfast,Superfast,NER,Varanasi,Vijayawada,Mumbai Central,180
+T0033,Vijayawada-Varanasi Mail/Express,Mail/Express,SR,Salem,Vijayawada,Varanasi,720
+T0034,Ranchi-Madurai Rajdhani,Rajdhani,NR,Delhi,Ranchi,Madurai,240
+T0035,Howrah-Guntur Mail/Express,Mail/Express,WR,Ahmedabad,Howrah,Guntur,240
+T0036,Chennai-Gorakhpur Mail/Express,Mail/Express,CR,Bhusawal,Chennai,Gorakhpur,600
+T0037,Delhi-Trivandrum Superfast,Superfast,SR,Chennai,Delhi,Trivandrum,240
+T0038,Ahmedabad-Hyderabad Mail/Express,Mail/Express,ER,Malda,Ahmedabad,Hyderabad,180
+T0039,Secunderabad-CSMT Mumbai Rajdhani,Rajdhani,ER,Malda,Secunderabad,CSMT Mumbai,480
+T0040,Izzatnagar-Sealdah Superfast,Superfast,CR,Bhusawal,Izzatnagar,Sealdah,240
+T0041,Moradabad-Garden Reach Passenger,Passenger,CR,Pune,Moradabad,Garden Reach,180
+T0042,Asansol-Moradabad Mail/Express,Mail/Express,NR,Moradabad,Asansol,Moradabad,600
+T0043,Chennai-Vadodara Rajdhani,Rajdhani,SR,Trivandrum,Chennai,Vadodara,480
+T0044,Lucknow-Trivandrum Mail/Express,Mail/Express,SR,Trivandrum,Lucknow,Trivandrum,480
+T0045,Garden Reach-Vadodara Mail/Express,Mail/Express,SER,Chakradharpur,Garden Reach,Vadodara,360
+T0046,Bhusawal-Varanasi Superfast,Superfast,SCR,Hyderabad,Bhusawal,Varanasi,360
+T0047,Madurai-Chennai Mail/Express,Mail/Express,SR,Chennai,Madurai,Chennai,600
+T0048,Chakradharpur-Chennai Shatabdi,Shatabdi,WR,Rajkot,Chakradharpur,Chennai,240
+T0049,Bhusawal-Delhi Mail/Express,Mail/Express,SER,Chakradharpur,Bhusawal,Delhi,720
+T0050,Howrah-CSMT Mumbai Passenger,Passenger,CR,CSMT Mumbai,Howrah,CSMT Mumbai,180
+T0051,Ahmedabad-Ranchi Mail/Express,Mail/Express,SR,Trivandrum,Ahmedabad,Ranchi,240
+T0052,Moradabad-Trivandrum Mail/Express,Mail/Express,CR,Bhusawal,Moradabad,Trivandrum,720
+T0053,Ranchi-Howrah Rajdhani,Rajdhani,SCR,Vijayawada,Ranchi,Howrah,720
+T0054,Guntur-Delhi Superfast,Superfast,CR,Pune,Guntur,Delhi,180
+T0055,Kharagpur-Sealdah Mail/Express,Mail/Express,SR,Trivandrum,Kharagpur,Sealdah,480
+T0056,Lucknow-Chakradharpur Mail/Express,Mail/Express,ER,Howrah,Lucknow,Chakradharpur,240
+T0057,Vijayawada-Sealdah Mail/Express,Mail/Express,WR,Mumbai Central,Vijayawada,Sealdah,240
+T0058,Ambala-Malda Passenger,Passenger,ER,Sealdah,Ambala,Malda,720
+T0059,Vadodara-Pune Superfast,Superfast,SER,Kharagpur,Vadodara,Pune,240
+T0060,Lucknow NER-Rajkot Passenger,Passenger,SR,Salem,Lucknow NER,Rajkot,240
+T0061,Rajkot-Ambala Mail/Express,Mail/Express,NER,Lucknow NER,Rajkot,Ambala,720
+T0062,Chennai-Pune Mail/Express,Mail/Express,WR,Vadodara,Chennai,Pune,360
+T0063,Salem-CSMT Mumbai Passenger,Passenger,SCR,Vijayawada,Salem,CSMT Mumbai,240
+T0064,Guntur-Chakradharpur Shatabdi,Shatabdi,CR,CSMT Mumbai,Guntur,Chakradharpur,720
+T0065,Salem-Secunderabad Superfast,Superfast,SER,Kharagpur,Salem,Secunderabad,600
+T0066,Guntur-Delhi Rajdhani,Rajdhani,WR,Rajkot,Guntur,Delhi,600
+T0067,Ranchi-Garden Reach Mail/Express,Mail/Express,WR,Rajkot,Ranchi,Garden Reach,720
+T0068,Vijayawada-Garden Reach Mail/Express,Mail/Express,SR,Madurai,Vijayawada,Garden Reach,480
+T0069,Secunderabad-Malda Mail/Express,Mail/Express,CR,Pune,Secunderabad,Malda,600
+T0070,Delhi-Bhusawal Mail/Express,Mail/Express,CR,Bhusawal,Delhi,Bhusawal,360
+T0071,Garden Reach-Varanasi Superfast,Superfast,WR,Vadodara,Garden Reach,Varanasi,480
+T0072,Asansol-Trivandrum Mail/Express,Mail/Express,NER,Varanasi,Asansol,Trivandrum,360
+T0073,Vadodara-Bhusawal Superfast,Superfast,SER,Garden Reach,Vadodara,Bhusawal,240
+T0074,Vadodara-Lucknow NER Rajdhani,Rajdhani,WR,Ahmedabad,Vadodara,Lucknow NER,600
+T0075,Mumbai Central-Secunderabad Mail/Express,Mail/Express,SR,Salem,Mumbai Central,Secunderabad,480
+T0076,Delhi-Madurai Shatabdi,Shatabdi,SCR,Hyderabad,Delhi,Madurai,480
+T0077,Varanasi-Moradabad Superfast,Superfast,WR,Ahmedabad,Varanasi,Moradabad,600
+T0078,Varanasi-Garden Reach Mail/Express,Mail/Express,WR,Mumbai Central,Varanasi,Garden Reach,480
+T0079,Lucknow NER-Gorakhpur Passenger,Passenger,SCR,Guntur,Lucknow NER,Gorakhpur,360
+T0080,Izzatnagar-Vadodara Superfast,Superfast,WR,Rajkot,Izzatnagar,Vadodara,360
+T0081,Vadodara-Pune Superfast,Superfast,NER,Gorakhpur,Vadodara,Pune,360
+T0082,Rajkot-Secunderabad Shatabdi,Shatabdi,SER,Garden Reach,Rajkot,Secunderabad,720
+T0083,Vijayawada-Ranchi Rajdhani,Rajdhani,ER,Sealdah,Vijayawada,Ranchi,600
+T0084,Vijayawada-Secunderabad Rajdhani,Rajdhani,NER,Izzatnagar,Vijayawada,Secunderabad,600
+T0085,Chakradharpur-Bhusawal Mail/Express,Mail/Express,NR,Moradabad,Chakradharpur,Bhusawal,480
+T0086,Pune-Guntur Mail/Express,Mail/Express,SCR,Hyderabad,Pune,Guntur,480
+T0087,Hyderabad-Asansol Mail/Express,Mail/Express,NR,Moradabad,Hyderabad,Asansol,480
+T0088,Ambala-Trivandrum Passenger,Passenger,ER,Howrah,Ambala,Trivandrum,720
+T0089,Malda-Moradabad Passenger,Passenger,SCR,Hyderabad,Malda,Moradabad,360
+T0090,Garden Reach-Ranchi Mail/Express,Mail/Express,SCR,Vijayawada,Garden Reach,Ranchi,480
+T0091,Trivandrum-Lucknow NER Mail/Express,Mail/Express,CR,Bhusawal,Trivandrum,Lucknow NER,180
+T0092,Chennai-Lucknow Mail/Express,Mail/Express,NR,Lucknow,Chennai,Lucknow,180
+T0093,Sealdah-Vadodara Superfast,Superfast,WR,Ahmedabad,Sealdah,Vadodara,240
+T0094,Ahmedabad-Varanasi Mail/Express,Mail/Express,NER,Gorakhpur,Ahmedabad,Varanasi,720
+T0095,Salem-Asansol Mail/Express,Mail/Express,CR,Nagpur,Salem,Asansol,360
+T0096,Secunderabad-Hyderabad Passenger,Passenger,SR,Chennai,Secunderabad,Hyderabad,720
+T0097,Vadodara-Madurai Mail/Express,Mail/Express,WR,Mumbai Central,Vadodara,Madurai,720
+T0098,Lucknow-Chakradharpur Superfast,Superfast,CR,CSMT Mumbai,Lucknow,Chakradharpur,600
+T0099,Ranchi-Delhi Rajdhani,Rajdhani,SCR,Vijayawada,Ranchi,Delhi,480
+T0100,Kharagpur-Varanasi Mail/Express,Mail/Express,NER,Gorakhpur,Kharagpur,Varanasi,720
+T0101,Pune-Lucknow NER Mail/Express,Mail/Express,ER,Malda,Pune,Lucknow NER,480
+T0102,Vadodara-Trivandrum Mail/Express,Mail/Express,SCR,Vijayawada,Vadodara,Trivandrum,360
+T0103,Secunderabad-Ranchi Superfast,Superfast,NER,Varanasi,Secunderabad,Ranchi,180
+T0104,Ahmedabad-Chakradharpur Mail/Express,Mail/Express,NER,Lucknow NER,Ahmedabad,Chakradharpur,360
+T0105,Pune-Delhi Passenger,Passenger,SER,Chakradharpur,Pune,Delhi,600
+T0106,Vijayawada-Izzatnagar Mail/Express,Mail/Express,WR,Mumbai Central,Vijayawada,Izzatnagar,600
+T0107,Izzatnagar-Gorakhpur Superfast,Superfast,WR,Vadodara,Izzatnagar,Gorakhpur,180
+T0108,Vadodara-Bhusawal Mail/Express,Mail/Express,SR,Madurai,Vadodara,Bhusawal,720
+T0109,Chakradharpur-Guntur Mail/Express,Mail/Express,SER,Kharagpur,Chakradharpur,Guntur,720
+T0110,Pune-Bhusawal Superfast,Superfast,SER,Chakradharpur,Pune,Bhusawal,360
+T0111,Garden Reach-Salem Superfast,Superfast,WR,Mumbai Central,Garden Reach,Salem,720
+T0112,Lucknow NER-Pune Mail/Express,Mail/Express,ER,Sealdah,Lucknow NER,Pune,720
+T0113,Nagpur-Rajkot Superfast,Superfast,CR,CSMT Mumbai,Nagpur,Rajkot,360
+T0114,Howrah-Pune Rajdhani,Rajdhani,ER,Asansol,Howrah,Pune,180
+T0115,Howrah-Izzatnagar Superfast,Superfast,NR,Lucknow,Howrah,Izzatnagar,180
+T0116,Gorakhpur-Ranchi Mail/Express,Mail/Express,NR,Lucknow,Gorakhpur,Ranchi,240
+T0117,Lucknow NER-Salem Passenger,Passenger,NR,Lucknow,Lucknow NER,Salem,180
+T0118,Moradabad-Sealdah Rajdhani,Rajdhani,SCR,Guntur,Moradabad,Sealdah,240
+T0119,Salem-Vijayawada Passenger,Passenger,CR,CSMT Mumbai,Salem,Vijayawada,600
+T0120,Gorakhpur-Bhusawal Mail/Express,Mail/Express,WR,Vadodara,Gorakhpur,Bhusawal,600
+T0121,Moradabad-Madurai Mail/Express,Mail/Express,SCR,Vijayawada,Moradabad,Madurai,240
+T0122,Asansol-Vadodara Superfast,Superfast,WR,Rajkot,Asansol,Vadodara,240
+T0123,Gorakhpur-Lucknow NER Rajdhani,Rajdhani,SR,Trivandrum,Gorakhpur,Lucknow NER,360
+T0124,Nagpur-Varanasi Mail/Express,Mail/Express,NR,Ambala,Nagpur,Varanasi,180
+T0125,Mumbai Central-Guntur Superfast,Superfast,WR,Rajkot,Mumbai Central,Guntur,180
+T0126,Sealdah-Chennai Passenger,Passenger,WR,Ahmedabad,Sealdah,Chennai,180
+T0127,Nagpur-Gorakhpur Mail/Express,Mail/Express,ER,Asansol,Nagpur,Gorakhpur,180
+T0128,Pune-Izzatnagar Superfast,Superfast,NER,Lucknow NER,Pune,Izzatnagar,480
+T0129,Garden Reach-CSMT Mumbai Passenger,Passenger,SR,Chennai,Garden Reach,CSMT Mumbai,180
+T0130,Ambala-Pune Passenger,Passenger,SR,Trivandrum,Ambala,Pune,600
+T0131,Gorakhpur-Pune Mail/Express,Mail/Express,NR,Ambala,Gorakhpur,Pune,240
+T0132,Lucknow NER-Chakradharpur Passenger,Passenger,SCR,Guntur,Lucknow NER,Chakradharpur,480
+T0133,Asansol-Ranchi Superfast,Superfast,SER,Chakradharpur,Asansol,Ranchi,480
+T0134,Hyderabad-Lucknow Superfast,Superfast,NER,Lucknow NER,Hyderabad,Lucknow,480
+T0135,Salem-Hyderabad Mail/Express,Mail/Express,SR,Madurai,Salem,Hyderabad,600
+T0136,Mumbai Central-Kharagpur Mail/Express,Mail/Express,NR,Moradabad,Mumbai Central,Kharagpur,600
+T0137,Ahmedabad-Pune Superfast,Superfast,NER,Izzatnagar,Ahmedabad,Pune,600
+T0138,Izzatnagar-Salem Mail/Express,Mail/Express,ER,Asansol,Izzatnagar,Salem,180
+T0139,Delhi-Vijayawada Mail/Express,Mail/Express,WR,Ahmedabad,Delhi,Vijayawada,180
+T0140,Salem-Sealdah Mail/Express,Mail/Express,WR,Mumbai Central,Salem,Sealdah,480
+T0141,Lucknow NER-Vadodara Mail/Express,Mail/Express,CR,Nagpur,Lucknow NER,Vadodara,480
+T0142,Howrah-Chennai Mail/Express,Mail/Express,ER,Malda,Howrah,Chennai,360
+T0143,Pune-Delhi Passenger,Passenger,SCR,Vijayawada,Pune,Delhi,360
+T0144,Gorakhpur-Lucknow NER Passenger,Passenger,CR,Bhusawal,Gorakhpur,Lucknow NER,360
+T0145,Garden Reach-Mumbai Central Mail/Express,Mail/Express,SER,Kharagpur,Garden Reach,Mumbai Central,720
+T0146,Vijayawada-Lucknow Mail/Express,Mail/Express,WR,Vadodara,Vijayawada,Lucknow,360
+T0147,Sealdah-Izzatnagar Mail/Express,Mail/Express,NER,Izzatnagar,Sealdah,Izzatnagar,180
+T0148,Gorakhpur-Madurai Passenger,Passenger,ER,Asansol,Gorakhpur,Madurai,600
+T0149,Vijayawada-Sealdah Superfast,Superfast,NER,Gorakhpur,Vijayawada,Sealdah,180
+T0150,Hyderabad-Trivandrum Mail/Express,Mail/Express,NER,Lucknow NER,Hyderabad,Trivandrum,360

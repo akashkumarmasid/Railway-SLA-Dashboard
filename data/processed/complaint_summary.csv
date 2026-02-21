@@ -1,0 +1,1181 @@
+zone,year_month,category,total_complaints,met_sla,avg_resolution_days,sla_met_pct
+CR,2024-01,Catering,1,0,10.0,0.0
+CR,2024-01,Punctuality,1,0,12.0,0.0
+CR,2024-01,Security,7,3,7.71,42.86
+CR,2024-01,Staff Behavior,3,3,2.67,100.0
+CR,2024-01,Water Availability,2,1,7.0,50.0
+CR,2024-02,Cleanliness,2,2,5.0,100.0
+CR,2024-02,Coach Maintenance,2,1,4.5,50.0
+CR,2024-02,Punctuality,1,1,1.0,100.0
+CR,2024-02,Security,3,3,6.0,100.0
+CR,2024-02,Staff Behavior,4,2,7.0,50.0
+CR,2024-02,Water Availability,2,0,7.0,0.0
+CR,2024-03,Catering,2,0,10.5,0.0
+CR,2024-03,Coach Maintenance,4,1,7.25,25.0
+CR,2024-03,Punctuality,4,1,5.5,25.0
+CR,2024-03,Staff Behavior,4,2,6.5,50.0
+CR,2024-03,Water Availability,1,1,4.0,100.0
+CR,2024-04,Catering,3,2,6.0,66.67
+CR,2024-04,Cleanliness,2,2,4.0,100.0
+CR,2024-04,Coach Maintenance,3,2,8.67,66.67
+CR,2024-04,Punctuality,3,1,8.33,33.33
+CR,2024-04,Security,2,1,5.0,50.0
+CR,2024-04,Staff Behavior,3,0,8.33,0.0
+CR,2024-04,Water Availability,5,3,5.6,60.0
+CR,2024-05,Catering,2,1,4.0,50.0
+CR,2024-05,Cleanliness,1,1,3.0,100.0
+CR,2024-05,Coach Maintenance,3,2,7.0,66.67
+CR,2024-05,Punctuality,5,3,4.2,60.0
+CR,2024-05,Security,3,2,4.67,66.67
+CR,2024-05,Staff Behavior,5,3,4.8,60.0
+CR,2024-05,Water Availability,3,1,7.67,33.33
+CR,2024-06,Catering,1,1,5.0,100.0
+CR,2024-06,Cleanliness,1,1,2.0,100.0
+CR,2024-06,Coach Maintenance,1,1,8.0,100.0
+CR,2024-06,Security,4,2,5.25,50.0
+CR,2024-06,Water Availability,7,4,7.14,57.14
+CR,2024-07,Catering,3,2,5.0,66.67
+CR,2024-07,Cleanliness,1,1,1.0,100.0
+CR,2024-07,Coach Maintenance,5,4,4.4,80.0
+CR,2024-07,Security,2,2,2.5,100.0
+CR,2024-07,Staff Behavior,1,1,3.0,100.0
+CR,2024-07,Water Availability,3,2,5.67,66.67
+CR,2024-08,Catering,2,1,7.5,50.0
+CR,2024-08,Cleanliness,1,1,6.0,100.0
+CR,2024-08,Coach Maintenance,4,4,2.25,100.0
+CR,2024-08,Punctuality,5,4,3.6,80.0
+CR,2024-08,Security,4,3,4.0,75.0
+CR,2024-08,Staff Behavior,1,0,11.0,0.0
+CR,2024-08,Water Availability,2,1,5.0,50.0
+CR,2024-09,Catering,4,1,9.75,25.0
+CR,2024-09,Cleanliness,2,1,3.5,50.0
+CR,2024-09,Coach Maintenance,3,2,5.0,66.67
+CR,2024-09,Punctuality,4,2,6.25,50.0
+CR,2024-09,Security,4,3,4.0,75.0
+CR,2024-09,Staff Behavior,2,2,2.5,100.0
+CR,2024-09,Water Availability,3,3,5.33,100.0
+CR,2024-10,Catering,3,3,4.33,100.0
+CR,2024-10,Cleanliness,4,3,6.75,75.0
+CR,2024-10,Coach Maintenance,3,0,8.0,0.0
+CR,2024-10,Punctuality,1,0,5.0,0.0
+CR,2024-10,Security,2,1,6.5,50.0
+CR,2024-10,Staff Behavior,1,0,8.0,0.0
+CR,2024-10,Water Availability,4,1,6.25,25.0
+CR,2024-11,Catering,2,1,6.5,50.0
+CR,2024-11,Cleanliness,4,2,4.5,50.0
+CR,2024-11,Coach Maintenance,2,1,7.0,50.0
+CR,2024-11,Punctuality,2,1,7.5,50.0
+CR,2024-11,Security,1,0,6.0,0.0
+CR,2024-11,Staff Behavior,6,1,7.33,16.67
+CR,2024-11,Water Availability,1,1,1.0,100.0
+CR,2024-12,Catering,3,2,7.67,66.67
+CR,2024-12,Coach Maintenance,4,2,6.0,50.0
+CR,2024-12,Punctuality,3,2,4.0,66.67
+CR,2024-12,Security,3,2,5.0,66.67
+CR,2024-12,Staff Behavior,5,1,6.0,20.0
+CR,2024-12,Water Availability,4,3,4.75,75.0
+CR,2025-01,Cleanliness,5,2,6.4,40.0
+CR,2025-01,Coach Maintenance,2,1,4.5,50.0
+CR,2025-01,Punctuality,1,1,6.0,100.0
+CR,2025-01,Security,3,0,10.33,0.0
+CR,2025-01,Staff Behavior,3,3,5.67,100.0
+CR,2025-01,Water Availability,1,1,7.0,100.0
+CR,2025-02,Catering,3,2,7.67,66.67
+CR,2025-02,Cleanliness,5,2,6.6,40.0
+CR,2025-02,Coach Maintenance,1,0,5.0,0.0
+CR,2025-02,Punctuality,2,1,7.5,50.0
+CR,2025-02,Water Availability,2,2,6.5,100.0
+CR,2025-03,Catering,1,1,6.0,100.0
+CR,2025-03,Cleanliness,2,1,6.0,50.0
+CR,2025-03,Coach Maintenance,2,1,7.5,50.0
+CR,2025-03,Security,2,2,5.5,100.0
+CR,2025-03,Staff Behavior,5,1,7.4,20.0
+CR,2025-03,Water Availability,1,0,13.0,0.0
+CR,2025-04,Catering,3,1,5.33,33.33
+CR,2025-04,Cleanliness,1,1,1.0,100.0
+CR,2025-04,Coach Maintenance,3,1,6.67,33.33
+CR,2025-04,Punctuality,2,1,4.5,50.0
+CR,2025-04,Security,3,0,9.67,0.0
+CR,2025-04,Water Availability,2,1,8.0,50.0
+CR,2025-05,Cleanliness,5,3,5.2,60.0
+CR,2025-05,Coach Maintenance,1,1,1.0,100.0
+CR,2025-05,Punctuality,1,1,4.0,100.0
+CR,2025-05,Security,2,0,7.5,0.0
+CR,2025-05,Staff Behavior,4,1,6.25,25.0
+CR,2025-05,Water Availability,2,2,1.0,100.0
+CR,2025-06,Catering,4,1,7.5,25.0
+CR,2025-06,Cleanliness,5,4,5.2,80.0
+CR,2025-06,Coach Maintenance,2,2,2.0,100.0
+CR,2025-06,Punctuality,3,3,3.33,100.0
+CR,2025-06,Security,2,0,9.0,0.0
+CR,2025-06,Staff Behavior,3,2,6.33,66.67
+CR,2025-06,Water Availability,3,2,5.67,66.67
+CR,2025-07,Catering,2,0,7.5,0.0
+CR,2025-07,Cleanliness,1,0,9.0,0.0
+CR,2025-07,Coach Maintenance,2,1,7.0,50.0
+CR,2025-07,Punctuality,3,1,4.33,33.33
+CR,2025-07,Security,1,1,6.0,100.0
+CR,2025-07,Staff Behavior,3,1,7.0,33.33
+CR,2025-07,Water Availability,3,3,3.0,100.0
+CR,2025-08,Cleanliness,6,4,6.33,66.67
+CR,2025-08,Punctuality,1,0,9.0,0.0
+CR,2025-08,Security,4,2,5.75,50.0
+CR,2025-08,Staff Behavior,3,2,3.33,66.67
+CR,2025-09,Catering,4,4,7.25,100.0
+CR,2025-09,Cleanliness,4,3,4.75,75.0
+CR,2025-09,Coach Maintenance,1,0,11.0,0.0
+CR,2025-09,Punctuality,6,4,7.17,66.67
+CR,2025-09,Security,2,0,9.0,0.0
+CR,2025-09,Staff Behavior,1,0,8.0,0.0
+CR,2025-09,Water Availability,7,6,5.14,85.71
+CR,2025-10,Catering,1,0,12.0,0.0
+CR,2025-10,Cleanliness,3,2,5.67,66.67
+CR,2025-10,Coach Maintenance,5,3,7.0,60.0
+CR,2025-10,Punctuality,1,1,5.0,100.0
+CR,2025-10,Security,1,0,8.0,0.0
+CR,2025-10,Staff Behavior,2,1,4.0,50.0
+CR,2025-10,Water Availability,4,0,9.5,0.0
+CR,2025-11,Catering,3,2,2.67,66.67
+CR,2025-11,Cleanliness,2,1,6.0,50.0
+CR,2025-11,Coach Maintenance,2,1,4.5,50.0
+CR,2025-11,Punctuality,4,1,10.0,25.0
+CR,2025-11,Staff Behavior,2,1,5.5,50.0
+CR,2025-11,Water Availability,2,1,8.5,50.0
+CR,2025-12,Catering,2,1,4.5,50.0
+CR,2025-12,Cleanliness,2,1,5.5,50.0
+CR,2025-12,Coach Maintenance,2,1,6.5,50.0
+CR,2025-12,Punctuality,1,0,15.0,0.0
+CR,2025-12,Security,3,1,9.33,33.33
+CR,2025-12,Staff Behavior,4,0,8.25,0.0
+CR,2025-12,Water Availability,3,3,5.67,100.0
+ER,2024-01,Catering,1,1,2.0,100.0
+ER,2024-01,Cleanliness,2,0,10.5,0.0
+ER,2024-01,Coach Maintenance,1,0,14.0,0.0
+ER,2024-01,Punctuality,1,1,3.0,100.0
+ER,2024-01,Staff Behavior,2,1,6.5,50.0
+ER,2024-01,Water Availability,2,0,10.5,0.0
+ER,2024-02,Catering,1,1,5.0,100.0
+ER,2024-02,Coach Maintenance,2,2,3.0,100.0
+ER,2024-02,Punctuality,3,3,6.0,100.0
+ER,2024-02,Security,3,2,3.33,66.67
+ER,2024-02,Staff Behavior,1,0,6.0,0.0
+ER,2024-02,Water Availability,2,0,13.5,0.0
+ER,2024-03,Catering,4,0,10.25,0.0
+ER,2024-03,Cleanliness,2,0,5.5,0.0
+ER,2024-03,Punctuality,1,1,9.0,100.0
+ER,2024-03,Security,4,4,5.0,100.0
+ER,2024-03,Staff Behavior,1,1,5.0,100.0
+ER,2024-03,Water Availability,1,1,2.0,100.0
+ER,2024-04,Catering,1,0,5.0,0.0
+ER,2024-04,Cleanliness,6,4,6.5,66.67
+ER,2024-04,Coach Maintenance,2,1,6.5,50.0
+ER,2024-04,Security,1,0,4.0,0.0
+ER,2024-04,Staff Behavior,2,1,5.0,50.0
+ER,2024-04,Water Availability,1,0,9.0,0.0
+ER,2024-05,Coach Maintenance,1,0,14.0,0.0
+ER,2024-05,Punctuality,3,2,4.67,66.67
+ER,2024-05,Security,5,2,6.6,40.0
+ER,2024-05,Staff Behavior,3,1,9.67,33.33
+ER,2024-05,Water Availability,6,3,4.5,50.0
+ER,2024-06,Catering,2,0,6.5,0.0
+ER,2024-06,Cleanliness,2,1,7.0,50.0
+ER,2024-06,Coach Maintenance,5,2,5.2,40.0
+ER,2024-06,Punctuality,2,2,6.5,100.0
+ER,2024-06,Staff Behavior,2,1,6.5,50.0
+ER,2024-06,Water Availability,3,1,6.67,33.33
+ER,2024-07,Catering,1,1,5.0,100.0
+ER,2024-07,Cleanliness,2,1,8.5,50.0
+ER,2024-07,Coach Maintenance,1,1,2.0,100.0
+ER,2024-07,Punctuality,3,1,7.33,33.33
+ER,2024-07,Security,2,1,6.5,50.0
+ER,2024-07,Staff Behavior,4,2,7.75,50.0
+ER,2024-07,Water Availability,3,2,6.67,66.67
+ER,2024-08,Catering,5,3,4.0,60.0
+ER,2024-08,Cleanliness,1,0,8.0,0.0
+ER,2024-08,Coach Maintenance,1,0,6.0,0.0
+ER,2024-08,Punctuality,2,2,2.5,100.0
+ER,2024-08,Security,2,1,7.0,50.0
+ER,2024-08,Staff Behavior,1,1,4.0,100.0
+ER,2024-08,Water Availability,5,2,7.2,40.0
+ER,2024-09,Catering,2,2,4.0,100.0
+ER,2024-09,Cleanliness,1,0,5.0,0.0
+ER,2024-09,Coach Maintenance,4,1,5.0,25.0
+ER,2024-09,Punctuality,1,1,4.0,100.0
+ER,2024-09,Staff Behavior,5,3,6.6,60.0
+ER,2024-09,Water Availability,1,1,4.0,100.0
+ER,2024-10,Catering,3,2,7.33,66.67
+ER,2024-10,Cleanliness,2,0,12.5,0.0
+ER,2024-10,Coach Maintenance,2,1,6.0,50.0
+ER,2024-10,Punctuality,1,1,6.0,100.0
+ER,2024-10,Security,1,1,10.0,100.0
+ER,2024-10,Staff Behavior,2,1,5.0,50.0
+ER,2024-10,Water Availability,3,1,8.0,33.33
+ER,2024-11,Catering,3,2,4.33,66.67
+ER,2024-11,Cleanliness,3,1,5.67,33.33
+ER,2024-11,Coach Maintenance,3,2,6.33,66.67
+ER,2024-11,Punctuality,2,1,6.0,50.0
+ER,2024-11,Security,3,3,1.67,100.0
+ER,2024-11,Staff Behavior,1,0,6.0,0.0
+ER,2024-11,Water Availability,4,2,4.75,50.0
+ER,2024-12,Catering,2,0,6.0,0.0
+ER,2024-12,Coach Maintenance,2,2,2.0,100.0
+ER,2024-12,Punctuality,3,2,4.33,66.67
+ER,2024-12,Security,3,1,6.33,33.33
+ER,2024-12,Staff Behavior,1,0,5.0,0.0
+ER,2024-12,Water Availability,2,2,3.0,100.0
+ER,2025-01,Catering,2,1,10.0,50.0
+ER,2025-01,Cleanliness,4,2,5.75,50.0
+ER,2025-01,Coach Maintenance,2,1,8.0,50.0
+ER,2025-01,Punctuality,3,1,9.0,33.33
+ER,2025-01,Security,1,0,12.0,0.0
+ER,2025-01,Staff Behavior,3,1,6.67,33.33
+ER,2025-01,Water Availability,1,1,9.0,100.0
+ER,2025-02,Catering,3,1,6.0,33.33
+ER,2025-02,Cleanliness,2,2,6.0,100.0
+ER,2025-02,Punctuality,2,2,2.5,100.0
+ER,2025-02,Security,1,0,11.0,0.0
+ER,2025-02,Staff Behavior,4,2,8.0,50.0
+ER,2025-02,Water Availability,3,3,5.33,100.0
+ER,2025-03,Catering,1,1,5.0,100.0
+ER,2025-03,Cleanliness,2,1,4.5,50.0
+ER,2025-03,Punctuality,2,1,6.0,50.0
+ER,2025-03,Security,3,2,5.33,66.67
+ER,2025-03,Staff Behavior,1,1,2.0,100.0
+ER,2025-03,Water Availability,1,0,8.0,0.0
+ER,2025-04,Catering,2,1,9.0,50.0
+ER,2025-04,Cleanliness,6,3,5.17,50.0
+ER,2025-04,Punctuality,3,1,10.0,33.33
+ER,2025-04,Security,2,2,1.0,100.0
+ER,2025-04,Staff Behavior,2,2,6.5,100.0
+ER,2025-04,Water Availability,2,2,6.0,100.0
+ER,2025-05,Catering,2,1,4.0,50.0
+ER,2025-05,Cleanliness,1,1,5.0,100.0
+ER,2025-05,Coach Maintenance,3,1,5.67,33.33
+ER,2025-05,Punctuality,1,1,7.0,100.0
+ER,2025-05,Staff Behavior,1,0,15.0,0.0
+ER,2025-05,Water Availability,3,0,11.33,0.0
+ER,2025-06,Catering,1,1,2.0,100.0
+ER,2025-06,Cleanliness,1,1,5.0,100.0
+ER,2025-06,Coach Maintenance,1,1,3.0,100.0
+ER,2025-06,Punctuality,2,2,2.5,100.0
+ER,2025-06,Staff Behavior,5,2,5.2,40.0
+ER,2025-06,Water Availability,4,2,4.0,50.0
+ER,2025-07,Catering,1,1,1.0,100.0
+ER,2025-07,Cleanliness,3,2,5.0,66.67
+ER,2025-07,Coach Maintenance,5,3,5.4,60.0
+ER,2025-07,Punctuality,1,1,1.0,100.0
+ER,2025-07,Security,1,1,1.0,100.0
+ER,2025-07,Staff Behavior,2,2,6.5,100.0
+ER,2025-07,Water Availability,1,0,8.0,0.0
+ER,2025-08,Catering,3,2,2.33,66.67
+ER,2025-08,Cleanliness,1,0,10.0,0.0
+ER,2025-08,Coach Maintenance,2,2,3.0,100.0
+ER,2025-08,Punctuality,2,1,2.5,50.0
+ER,2025-08,Security,3,1,5.67,33.33
+ER,2025-08,Staff Behavior,3,1,7.67,33.33
+ER,2025-08,Water Availability,2,2,2.5,100.0
+ER,2025-09,Catering,6,3,6.67,50.0
+ER,2025-09,Coach Maintenance,4,2,7.0,50.0
+ER,2025-09,Security,3,2,4.33,66.67
+ER,2025-09,Staff Behavior,1,1,2.0,100.0
+ER,2025-09,Water Availability,2,0,7.0,0.0
+ER,2025-10,Catering,1,1,3.0,100.0
+ER,2025-10,Cleanliness,2,0,6.0,0.0
+ER,2025-10,Coach Maintenance,5,4,3.8,80.0
+ER,2025-10,Punctuality,1,0,10.0,0.0
+ER,2025-10,Security,2,1,6.5,50.0
+ER,2025-10,Staff Behavior,4,3,3.75,75.0
+ER,2025-10,Water Availability,1,1,2.0,100.0
+ER,2025-11,Catering,2,1,4.0,50.0
+ER,2025-11,Cleanliness,1,1,3.0,100.0
+ER,2025-11,Coach Maintenance,5,3,6.8,60.0
+ER,2025-11,Punctuality,3,0,12.0,0.0
+ER,2025-11,Water Availability,3,0,7.67,0.0
+ER,2025-12,Catering,1,1,2.0,100.0
+ER,2025-12,Cleanliness,1,0,6.0,0.0
+ER,2025-12,Coach Maintenance,3,2,5.33,66.67
+ER,2025-12,Punctuality,1,0,4.0,0.0
+ER,2025-12,Security,2,0,7.5,0.0
+ER,2025-12,Staff Behavior,2,1,6.5,50.0
+NER,2024-01,Catering,4,4,3.25,100.0
+NER,2024-01,Cleanliness,1,1,4.0,100.0
+NER,2024-01,Coach Maintenance,2,2,2.0,100.0
+NER,2024-01,Security,1,0,8.0,0.0
+NER,2024-01,Staff Behavior,1,1,3.0,100.0
+NER,2024-01,Water Availability,2,2,1.0,100.0
+NER,2024-02,Catering,2,1,8.5,50.0
+NER,2024-02,Cleanliness,1,1,2.0,100.0
+NER,2024-02,Coach Maintenance,1,0,7.0,0.0
+NER,2024-02,Security,2,2,5.5,100.0
+NER,2024-02,Staff Behavior,1,1,4.0,100.0
+NER,2024-02,Water Availability,2,0,6.5,0.0
+NER,2024-03,Catering,1,1,4.0,100.0
+NER,2024-03,Cleanliness,2,1,7.5,50.0
+NER,2024-03,Coach Maintenance,5,1,8.2,20.0
+NER,2024-03,Punctuality,3,2,4.0,66.67
+NER,2024-03,Security,4,3,5.0,75.0
+NER,2024-03,Water Availability,2,2,2.0,100.0
+NER,2024-04,Catering,2,2,7.0,100.0
+NER,2024-04,Cleanliness,2,1,2.5,50.0
+NER,2024-04,Punctuality,2,1,8.5,50.0
+NER,2024-04,Security,1,0,15.0,0.0
+NER,2024-04,Staff Behavior,6,3,5.33,50.0
+NER,2024-04,Water Availability,4,2,6.25,50.0
+NER,2024-05,Catering,3,2,7.0,66.67
+NER,2024-05,Cleanliness,2,1,9.0,50.0
+NER,2024-05,Coach Maintenance,2,0,6.5,0.0
+NER,2024-05,Punctuality,2,2,2.0,100.0
+NER,2024-05,Security,5,5,4.2,100.0
+NER,2024-05,Staff Behavior,3,3,2.33,100.0
+NER,2024-06,Catering,3,3,2.0,100.0
+NER,2024-06,Cleanliness,1,1,3.0,100.0
+NER,2024-06,Coach Maintenance,1,1,3.0,100.0
+NER,2024-06,Punctuality,1,1,5.0,100.0
+NER,2024-06,Security,2,0,12.5,0.0
+NER,2024-06,Water Availability,1,0,7.0,0.0
+NER,2024-07,Catering,4,0,8.5,0.0
+NER,2024-07,Cleanliness,1,0,13.0,0.0
+NER,2024-07,Coach Maintenance,2,1,7.0,50.0
+NER,2024-07,Water Availability,2,0,6.0,0.0
+NER,2024-08,Catering,5,2,8.0,40.0
+NER,2024-08,Cleanliness,3,2,6.67,66.67
+NER,2024-08,Coach Maintenance,1,1,1.0,100.0
+NER,2024-08,Punctuality,5,2,7.0,40.0
+NER,2024-08,Security,3,3,7.33,100.0
+NER,2024-08,Staff Behavior,5,3,7.6,60.0
+NER,2024-08,Water Availability,4,3,6.25,75.0
+NER,2024-09,Cleanliness,2,2,2.5,100.0
+NER,2024-09,Coach Maintenance,6,4,6.67,66.67
+NER,2024-09,Punctuality,1,0,11.0,0.0
+NER,2024-09,Security,1,1,1.0,100.0
+NER,2024-09,Staff Behavior,2,0,9.0,0.0
+NER,2024-09,Water Availability,3,2,6.67,66.67
+NER,2024-10,Catering,2,2,1.5,100.0
+NER,2024-10,Cleanliness,1,0,7.0,0.0
+NER,2024-10,Coach Maintenance,3,1,5.33,33.33
+NER,2024-10,Punctuality,3,1,6.67,33.33
+NER,2024-10,Security,3,2,7.33,66.67
+NER,2024-10,Staff Behavior,5,2,6.8,40.0
+NER,2024-11,Catering,1,0,12.0,0.0
+NER,2024-11,Cleanliness,3,3,4.33,100.0
+NER,2024-11,Coach Maintenance,1,0,9.0,0.0
+NER,2024-11,Punctuality,1,1,8.0,100.0
+NER,2024-11,Security,1,0,9.0,0.0
+NER,2024-11,Staff Behavior,1,0,10.0,0.0
+NER,2024-12,Catering,2,2,1.5,100.0
+NER,2024-12,Cleanliness,3,2,5.33,66.67
+NER,2024-12,Coach Maintenance,1,1,3.0,100.0
+NER,2024-12,Punctuality,2,0,10.5,0.0
+NER,2024-12,Security,3,1,5.67,33.33
+NER,2024-12,Staff Behavior,3,2,3.0,66.67
+NER,2024-12,Water Availability,2,1,4.0,50.0
+NER,2025-01,Catering,1,1,1.0,100.0
+NER,2025-01,Cleanliness,2,1,6.5,50.0
+NER,2025-01,Coach Maintenance,1,1,3.0,100.0
+NER,2025-01,Punctuality,2,0,7.0,0.0
+NER,2025-01,Security,2,0,9.0,0.0
+NER,2025-01,Staff Behavior,1,0,8.0,0.0
+NER,2025-02,Catering,2,0,5.0,0.0
+NER,2025-02,Cleanliness,1,0,7.0,0.0
+NER,2025-02,Coach Maintenance,1,1,3.0,100.0
+NER,2025-02,Punctuality,3,0,10.0,0.0
+NER,2025-02,Security,1,0,5.0,0.0
+NER,2025-02,Water Availability,2,1,6.0,50.0
+NER,2025-03,Catering,3,2,4.67,66.67
+NER,2025-03,Cleanliness,1,1,3.0,100.0
+NER,2025-03,Coach Maintenance,2,0,8.5,0.0
+NER,2025-03,Punctuality,2,0,10.0,0.0
+NER,2025-03,Security,1,1,1.0,100.0
+NER,2025-03,Staff Behavior,3,2,5.33,66.67
+NER,2025-03,Water Availability,4,2,8.25,50.0
+NER,2025-04,Catering,3,3,3.67,100.0
+NER,2025-04,Coach Maintenance,2,1,6.0,50.0
+NER,2025-04,Punctuality,5,2,6.2,40.0
+NER,2025-04,Security,1,1,6.0,100.0
+NER,2025-04,Staff Behavior,3,2,3.0,66.67
+NER,2025-04,Water Availability,4,1,8.0,25.0
+NER,2025-05,Cleanliness,2,1,6.0,50.0
+NER,2025-05,Coach Maintenance,1,1,4.0,100.0
+NER,2025-05,Punctuality,2,2,4.5,100.0
+NER,2025-05,Security,3,0,7.0,0.0
+NER,2025-05,Staff Behavior,3,2,4.67,66.67
+NER,2025-05,Water Availability,1,1,1.0,100.0
+NER,2025-06,Catering,5,4,3.0,80.0
+NER,2025-06,Cleanliness,3,1,8.33,33.33
+NER,2025-06,Coach Maintenance,2,1,6.5,50.0
+NER,2025-06,Punctuality,2,0,9.5,0.0
+NER,2025-06,Security,5,5,3.4,100.0
+NER,2025-06,Staff Behavior,2,1,7.0,50.0
+NER,2025-07,Cleanliness,3,1,8.67,33.33
+NER,2025-07,Coach Maintenance,4,3,3.75,75.0
+NER,2025-07,Security,1,0,7.0,0.0
+NER,2025-07,Staff Behavior,2,1,5.5,50.0
+NER,2025-07,Water Availability,1,1,6.0,100.0
+NER,2025-08,Catering,2,2,2.5,100.0
+NER,2025-08,Cleanliness,1,1,6.0,100.0
+NER,2025-08,Coach Maintenance,1,0,9.0,0.0
+NER,2025-08,Punctuality,2,2,3.5,100.0
+NER,2025-08,Security,2,1,6.5,50.0
+NER,2025-08,Staff Behavior,1,0,4.0,0.0
+NER,2025-08,Water Availability,3,3,5.67,100.0
+NER,2025-09,Catering,1,0,4.0,0.0
+NER,2025-09,Coach Maintenance,2,2,4.0,100.0
+NER,2025-09,Punctuality,2,0,8.5,0.0
+NER,2025-09,Security,1,1,10.0,100.0
+NER,2025-09,Staff Behavior,4,4,4.5,100.0
+NER,2025-09,Water Availability,2,1,5.0,50.0
+NER,2025-10,Catering,3,2,8.67,66.67
+NER,2025-10,Cleanliness,1,1,1.0,100.0
+NER,2025-10,Coach Maintenance,1,1,10.0,100.0
+NER,2025-10,Security,1,0,9.0,0.0
+NER,2025-10,Staff Behavior,2,1,10.5,50.0
+NER,2025-10,Water Availability,2,2,3.5,100.0
+NER,2025-11,Catering,3,0,8.33,0.0
+NER,2025-11,Cleanliness,1,1,9.0,100.0
+NER,2025-11,Punctuality,2,1,5.0,50.0
+NER,2025-11,Security,2,1,3.0,50.0
+NER,2025-11,Water Availability,4,2,6.5,50.0
+NER,2025-12,Catering,3,2,10.33,66.67
+NER,2025-12,Cleanliness,1,0,11.0,0.0
+NER,2025-12,Coach Maintenance,2,2,2.0,100.0
+NER,2025-12,Security,2,1,6.5,50.0
+NER,2025-12,Staff Behavior,2,2,3.0,100.0
+NR,2024-01,Cleanliness,3,1,7.0,33.33
+NR,2024-01,Coach Maintenance,1,0,7.0,0.0
+NR,2024-01,Punctuality,2,1,8.0,50.0
+NR,2024-01,Security,2,0,7.5,0.0
+NR,2024-01,Staff Behavior,4,2,4.5,50.0
+NR,2024-01,Water Availability,2,0,11.0,0.0
+NR,2024-02,Catering,1,0,9.0,0.0
+NR,2024-02,Cleanliness,1,1,1.0,100.0
+NR,2024-02,Coach Maintenance,2,1,5.5,50.0
+NR,2024-02,Security,3,2,4.67,66.67
+NR,2024-02,Staff Behavior,3,1,6.33,33.33
+NR,2024-02,Water Availability,1,1,5.0,100.0
+NR,2024-03,Catering,4,4,4.5,100.0
+NR,2024-03,Cleanliness,3,1,6.0,33.33
+NR,2024-03,Coach Maintenance,5,2,4.8,40.0
+NR,2024-03,Punctuality,4,2,6.5,50.0
+NR,2024-03,Security,2,0,10.0,0.0
+NR,2024-03,Staff Behavior,2,1,8.5,50.0
+NR,2024-04,Cleanliness,1,0,8.0,0.0
+NR,2024-04,Coach Maintenance,3,3,3.67,100.0
+NR,2024-04,Punctuality,2,1,5.0,50.0
+NR,2024-04,Security,2,1,4.5,50.0
+NR,2024-04,Water Availability,2,1,5.5,50.0
+NR,2024-05,Catering,1,1,2.0,100.0
+NR,2024-05,Cleanliness,2,2,5.0,100.0
+NR,2024-05,Coach Maintenance,4,1,5.5,25.0
+NR,2024-05,Punctuality,6,4,5.17,66.67
+NR,2024-05,Security,2,0,9.0,0.0
+NR,2024-05,Staff Behavior,2,1,3.0,50.0
+NR,2024-06,Catering,1,0,11.0,0.0
+NR,2024-06,Coach Maintenance,1,1,6.0,100.0
+NR,2024-06,Punctuality,2,1,4.5,50.0
+NR,2024-06,Security,1,1,4.0,100.0
+NR,2024-06,Staff Behavior,2,0,8.0,0.0
+NR,2024-06,Water Availability,1,1,6.0,100.0
+NR,2024-07,Catering,2,2,6.0,100.0
+NR,2024-07,Cleanliness,2,0,10.0,0.0
+NR,2024-07,Coach Maintenance,2,2,1.5,100.0
+NR,2024-07,Punctuality,2,0,7.5,0.0
+NR,2024-07,Security,5,1,7.8,20.0
+NR,2024-07,Staff Behavior,5,2,5.2,40.0
+NR,2024-07,Water Availability,2,2,1.5,100.0
+NR,2024-08,Catering,1,1,6.0,100.0
+NR,2024-08,Cleanliness,5,2,6.2,40.0
+NR,2024-08,Coach Maintenance,2,1,7.5,50.0
+NR,2024-08,Punctuality,3,3,4.0,100.0
+NR,2024-08,Security,1,0,12.0,0.0
+NR,2024-08,Staff Behavior,1,0,10.0,0.0
+NR,2024-08,Water Availability,4,2,5.75,50.0
+NR,2024-09,Catering,1,1,2.0,100.0
+NR,2024-09,Cleanliness,1,0,11.0,0.0
+NR,2024-09,Punctuality,3,2,6.0,66.67
+NR,2024-09,Staff Behavior,4,2,4.5,50.0
+NR,2024-09,Water Availability,2,0,7.5,0.0
+NR,2024-10,Cleanliness,2,2,5.0,100.0
+NR,2024-10,Coach Maintenance,2,1,3.0,50.0
+NR,2024-10,Punctuality,1,0,8.0,0.0
+NR,2024-10,Security,3,2,4.67,66.67
+NR,2024-10,Staff Behavior,2,1,5.5,50.0
+NR,2024-10,Water Availability,4,1,8.75,25.0
+NR,2024-11,Catering,2,2,4.5,100.0
+NR,2024-11,Cleanliness,2,2,6.5,100.0
+NR,2024-11,Coach Maintenance,1,1,1.0,100.0
+NR,2024-11,Punctuality,2,0,9.0,0.0
+NR,2024-11,Security,2,1,4.0,50.0
+NR,2024-11,Staff Behavior,2,1,10.5,50.0
+NR,2024-12,Catering,1,1,2.0,100.0
+NR,2024-12,Cleanliness,3,1,5.0,33.33
+NR,2024-12,Coach Maintenance,1,0,12.0,0.0
+NR,2024-12,Punctuality,2,0,11.0,0.0
+NR,2024-12,Security,2,1,5.5,50.0
+NR,2024-12,Staff Behavior,2,1,7.5,50.0
+NR,2024-12,Water Availability,4,2,7.0,50.0
+NR,2025-01,Catering,1,1,9.0,100.0
+NR,2025-01,Cleanliness,4,2,7.25,50.0
+NR,2025-01,Coach Maintenance,2,2,4.5,100.0
+NR,2025-01,Punctuality,2,2,4.0,100.0
+NR,2025-01,Security,1,1,3.0,100.0
+NR,2025-01,Water Availability,3,2,7.67,66.67
+NR,2025-02,Catering,1,1,7.0,100.0
+NR,2025-02,Cleanliness,2,2,6.5,100.0
+NR,2025-02,Coach Maintenance,1,1,5.0,100.0
+NR,2025-02,Punctuality,3,2,3.0,66.67
+NR,2025-02,Security,1,0,14.0,0.0
+NR,2025-02,Staff Behavior,4,2,6.75,50.0
+NR,2025-02,Water Availability,1,0,8.0,0.0
+NR,2025-03,Catering,2,2,6.5,100.0
+NR,2025-03,Cleanliness,2,1,10.0,50.0
+NR,2025-03,Security,3,3,3.33,100.0
+NR,2025-03,Staff Behavior,1,0,9.0,0.0
+NR,2025-03,Water Availability,1,0,6.0,0.0
+NR,2025-04,Catering,2,1,7.0,50.0
+NR,2025-04,Coach Maintenance,2,2,2.0,100.0
+NR,2025-04,Punctuality,3,1,6.0,33.33
+NR,2025-04,Security,1,0,11.0,0.0
+NR,2025-04,Staff Behavior,3,1,7.0,33.33
+NR,2025-05,Catering,1,1,2.0,100.0
+NR,2025-05,Cleanliness,2,1,8.0,50.0
+NR,2025-05,Coach Maintenance,3,3,2.67,100.0
+NR,2025-05,Punctuality,1,1,2.0,100.0
+NR,2025-05,Security,1,0,9.0,0.0
+NR,2025-05,Water Availability,2,1,7.5,50.0
+NR,2025-06,Catering,3,0,6.67,0.0
+NR,2025-06,Cleanliness,2,0,10.5,0.0
+NR,2025-06,Coach Maintenance,1,1,2.0,100.0
+NR,2025-06,Punctuality,1,0,7.0,0.0
+NR,2025-06,Staff Behavior,1,1,5.0,100.0
+NR,2025-06,Water Availability,2,1,3.5,50.0
+NR,2025-07,Cleanliness,1,1,1.0,100.0
+NR,2025-07,Punctuality,1,0,9.0,0.0
+NR,2025-07,Security,1,0,5.0,0.0
+NR,2025-07,Staff Behavior,1,0,7.0,0.0
+NR,2025-07,Water Availability,1,1,1.0,100.0
+NR,2025-08,Catering,1,1,10.0,100.0
+NR,2025-08,Coach Maintenance,2,2,3.5,100.0
+NR,2025-08,Punctuality,1,1,7.0,100.0
+NR,2025-08,Security,2,1,8.5,50.0
+NR,2025-08,Staff Behavior,1,0,12.0,0.0
+NR,2025-09,Catering,1,0,8.0,0.0
+NR,2025-09,Cleanliness,1,0,8.0,0.0
+NR,2025-09,Coach Maintenance,2,2,5.5,100.0
+NR,2025-09,Punctuality,1,1,1.0,100.0
+NR,2025-09,Security,1,1,2.0,100.0
+NR,2025-09,Staff Behavior,1,0,5.0,0.0
+NR,2025-10,Cleanliness,2,0,8.5,0.0
+NR,2025-10,Coach Maintenance,3,2,6.67,66.67
+NR,2025-10,Punctuality,3,2,5.33,66.67
+NR,2025-10,Security,2,1,4.5,50.0
+NR,2025-10,Staff Behavior,2,1,6.5,50.0
+NR,2025-10,Water Availability,2,0,8.0,0.0
+NR,2025-11,Catering,1,0,12.0,0.0
+NR,2025-11,Cleanliness,4,4,4.0,100.0
+NR,2025-11,Coach Maintenance,3,1,6.67,33.33
+NR,2025-11,Staff Behavior,5,4,5.0,80.0
+NR,2025-11,Water Availability,2,1,5.5,50.0
+NR,2025-12,Catering,3,2,5.0,66.67
+NR,2025-12,Cleanliness,3,1,5.67,33.33
+NR,2025-12,Coach Maintenance,4,3,7.5,75.0
+NR,2025-12,Punctuality,4,1,8.25,25.0
+NR,2025-12,Security,1,0,14.0,0.0
+NR,2025-12,Staff Behavior,5,4,5.0,80.0
+NR,2025-12,Water Availability,1,1,2.0,100.0
+SCR,2024-01,Catering,2,1,6.0,50.0
+SCR,2024-01,Cleanliness,1,0,12.0,0.0
+SCR,2024-01,Punctuality,1,0,10.0,0.0
+SCR,2024-01,Staff Behavior,2,1,6.0,50.0
+SCR,2024-01,Water Availability,4,2,7.0,50.0
+SCR,2024-02,Catering,2,1,6.5,50.0
+SCR,2024-02,Cleanliness,3,2,7.33,66.67
+SCR,2024-02,Coach Maintenance,1,0,12.0,0.0
+SCR,2024-02,Punctuality,4,3,6.0,75.0
+SCR,2024-02,Security,2,1,6.0,50.0
+SCR,2024-02,Water Availability,2,1,8.0,50.0
+SCR,2024-03,Catering,3,2,8.0,66.67
+SCR,2024-03,Cleanliness,1,0,12.0,0.0
+SCR,2024-03,Coach Maintenance,5,0,9.8,0.0
+SCR,2024-03,Punctuality,1,1,1.0,100.0
+SCR,2024-03,Security,4,3,4.5,75.0
+SCR,2024-03,Staff Behavior,1,1,3.0,100.0
+SCR,2024-04,Catering,1,0,10.0,0.0
+SCR,2024-04,Cleanliness,3,3,4.0,100.0
+SCR,2024-04,Coach Maintenance,1,0,4.0,0.0
+SCR,2024-04,Punctuality,1,1,6.0,100.0
+SCR,2024-04,Security,2,1,8.0,50.0
+SCR,2024-04,Staff Behavior,1,0,10.0,0.0
+SCR,2024-04,Water Availability,6,2,7.67,33.33
+SCR,2024-05,Catering,1,0,6.0,0.0
+SCR,2024-05,Cleanliness,3,1,9.67,33.33
+SCR,2024-05,Coach Maintenance,2,2,5.0,100.0
+SCR,2024-05,Punctuality,1,1,5.0,100.0
+SCR,2024-05,Security,2,1,5.0,50.0
+SCR,2024-05,Staff Behavior,4,4,3.25,100.0
+SCR,2024-05,Water Availability,2,1,5.5,50.0
+SCR,2024-06,Catering,1,1,1.0,100.0
+SCR,2024-06,Cleanliness,1,0,12.0,0.0
+SCR,2024-06,Coach Maintenance,6,4,4.83,66.67
+SCR,2024-06,Punctuality,1,0,15.0,0.0
+SCR,2024-06,Security,2,2,1.0,100.0
+SCR,2024-06,Staff Behavior,1,1,1.0,100.0
+SCR,2024-06,Water Availability,1,1,9.0,100.0
+SCR,2024-07,Catering,2,1,5.0,50.0
+SCR,2024-07,Cleanliness,1,1,1.0,100.0
+SCR,2024-07,Coach Maintenance,2,1,4.0,50.0
+SCR,2024-07,Punctuality,1,1,3.0,100.0
+SCR,2024-07,Security,1,1,2.0,100.0
+SCR,2024-07,Water Availability,3,2,6.67,66.67
+SCR,2024-08,Catering,3,1,8.33,33.33
+SCR,2024-08,Cleanliness,2,1,7.0,50.0
+SCR,2024-08,Coach Maintenance,2,2,3.0,100.0
+SCR,2024-08,Punctuality,2,2,4.0,100.0
+SCR,2024-08,Security,1,0,4.0,0.0
+SCR,2024-08,Staff Behavior,1,0,12.0,0.0
+SCR,2024-09,Catering,2,2,2.5,100.0
+SCR,2024-09,Cleanliness,2,0,10.5,0.0
+SCR,2024-09,Coach Maintenance,2,1,6.5,50.0
+SCR,2024-09,Punctuality,2,2,6.0,100.0
+SCR,2024-09,Staff Behavior,3,1,4.0,33.33
+SCR,2024-09,Water Availability,2,1,6.5,50.0
+SCR,2024-10,Catering,2,2,5.0,100.0
+SCR,2024-10,Cleanliness,1,0,11.0,0.0
+SCR,2024-10,Coach Maintenance,1,0,8.0,0.0
+SCR,2024-10,Punctuality,4,2,6.5,50.0
+SCR,2024-10,Security,3,3,3.0,100.0
+SCR,2024-10,Staff Behavior,2,1,7.0,50.0
+SCR,2024-10,Water Availability,1,0,12.0,0.0
+SCR,2024-11,Cleanliness,3,3,3.33,100.0
+SCR,2024-11,Coach Maintenance,3,1,6.0,33.33
+SCR,2024-11,Punctuality,3,1,7.33,33.33
+SCR,2024-11,Security,1,0,13.0,0.0
+SCR,2024-11,Staff Behavior,4,4,2.25,100.0
+SCR,2024-11,Water Availability,3,2,4.33,66.67
+SCR,2024-12,Catering,2,1,7.0,50.0
+SCR,2024-12,Cleanliness,5,1,10.0,20.0
+SCR,2024-12,Coach Maintenance,4,2,9.25,50.0
+SCR,2024-12,Punctuality,2,1,5.5,50.0
+SCR,2024-12,Security,3,1,6.0,33.33
+SCR,2024-12,Staff Behavior,3,1,9.0,33.33
+SCR,2024-12,Water Availability,1,0,11.0,0.0
+SCR,2025-01,Catering,4,4,5.25,100.0
+SCR,2025-01,Cleanliness,3,2,4.0,66.67
+SCR,2025-01,Coach Maintenance,2,2,5.0,100.0
+SCR,2025-01,Punctuality,2,1,6.0,50.0
+SCR,2025-01,Security,2,1,7.5,50.0
+SCR,2025-01,Staff Behavior,2,1,7.5,50.0
+SCR,2025-01,Water Availability,1,0,6.0,0.0
+SCR,2025-02,Cleanliness,1,0,10.0,0.0
+SCR,2025-02,Coach Maintenance,2,0,9.0,0.0
+SCR,2025-02,Security,1,1,4.0,100.0
+SCR,2025-02,Staff Behavior,1,1,1.0,100.0
+SCR,2025-03,Catering,2,2,4.5,100.0
+SCR,2025-03,Cleanliness,2,2,3.5,100.0
+SCR,2025-03,Coach Maintenance,4,3,5.25,75.0
+SCR,2025-03,Punctuality,4,2,5.0,50.0
+SCR,2025-03,Security,4,2,6.5,50.0
+SCR,2025-03,Staff Behavior,1,1,1.0,100.0
+SCR,2025-03,Water Availability,4,1,5.0,25.0
+SCR,2025-04,Catering,2,1,6.0,50.0
+SCR,2025-04,Cleanliness,2,1,6.0,50.0
+SCR,2025-04,Coach Maintenance,3,1,3.0,33.33
+SCR,2025-04,Staff Behavior,2,0,6.0,0.0
+SCR,2025-04,Water Availability,2,1,6.5,50.0
+SCR,2025-05,Catering,5,1,8.6,20.0
+SCR,2025-05,Cleanliness,4,3,4.5,75.0
+SCR,2025-05,Coach Maintenance,3,2,4.67,66.67
+SCR,2025-05,Punctuality,4,3,3.5,75.0
+SCR,2025-05,Staff Behavior,3,3,6.33,100.0
+SCR,2025-05,Water Availability,5,3,3.8,60.0
+SCR,2025-06,Catering,2,1,9.0,50.0
+SCR,2025-06,Cleanliness,1,1,6.0,100.0
+SCR,2025-06,Coach Maintenance,1,1,3.0,100.0
+SCR,2025-06,Punctuality,1,1,4.0,100.0
+SCR,2025-06,Security,2,1,7.0,50.0
+SCR,2025-06,Staff Behavior,3,2,5.67,66.67
+SCR,2025-07,Catering,3,1,7.0,33.33
+SCR,2025-07,Cleanliness,8,5,6.75,62.5
+SCR,2025-07,Punctuality,2,0,9.0,0.0
+SCR,2025-07,Security,2,0,8.5,0.0
+SCR,2025-07,Water Availability,2,2,1.5,100.0
+SCR,2025-08,Catering,5,3,3.4,60.0
+SCR,2025-08,Cleanliness,1,1,2.0,100.0
+SCR,2025-08,Coach Maintenance,1,1,2.0,100.0
+SCR,2025-08,Punctuality,4,1,7.5,25.0
+SCR,2025-08,Security,3,2,4.67,66.67
+SCR,2025-08,Water Availability,3,1,6.67,33.33
+SCR,2025-09,Cleanliness,2,1,7.5,50.0
+SCR,2025-09,Coach Maintenance,1,1,3.0,100.0
+SCR,2025-09,Punctuality,1,1,1.0,100.0
+SCR,2025-09,Security,2,1,4.0,50.0
+SCR,2025-09,Water Availability,2,2,4.0,100.0
+SCR,2025-10,Catering,3,3,6.0,100.0
+SCR,2025-10,Coach Maintenance,1,1,3.0,100.0
+SCR,2025-10,Punctuality,4,1,9.0,25.0
+SCR,2025-10,Security,1,0,8.0,0.0
+SCR,2025-10,Staff Behavior,4,3,7.0,75.0
+SCR,2025-10,Water Availability,4,0,10.0,0.0
+SCR,2025-11,Catering,2,1,5.0,50.0
+SCR,2025-11,Cleanliness,2,2,6.5,100.0
+SCR,2025-11,Coach Maintenance,1,1,1.0,100.0
+SCR,2025-11,Punctuality,4,3,5.5,75.0
+SCR,2025-11,Security,2,1,7.0,50.0
+SCR,2025-11,Staff Behavior,2,2,5.5,100.0
+SCR,2025-11,Water Availability,2,0,11.5,0.0
+SCR,2025-12,Catering,3,1,7.33,33.33
+SCR,2025-12,Coach Maintenance,5,2,6.0,40.0
+SCR,2025-12,Punctuality,3,2,4.0,66.67
+SCR,2025-12,Security,2,0,7.0,0.0
+SCR,2025-12,Staff Behavior,1,1,5.0,100.0
+SCR,2025-12,Water Availability,3,3,1.0,100.0
+SER,2024-01,Coach Maintenance,1,1,5.0,100.0
+SER,2024-01,Punctuality,3,3,2.67,100.0
+SER,2024-01,Security,2,1,9.0,50.0
+SER,2024-01,Staff Behavior,2,1,5.5,50.0
+SER,2024-01,Water Availability,2,2,6.5,100.0
+SER,2024-02,Catering,2,0,5.5,0.0
+SER,2024-02,Cleanliness,4,2,4.25,50.0
+SER,2024-02,Coach Maintenance,5,2,5.2,40.0
+SER,2024-02,Security,2,1,7.0,50.0
+SER,2024-02,Staff Behavior,3,1,8.33,33.33
+SER,2024-02,Water Availability,2,2,3.0,100.0
+SER,2024-03,Catering,2,2,3.5,100.0
+SER,2024-03,Cleanliness,2,0,13.5,0.0
+SER,2024-03,Coach Maintenance,1,1,2.0,100.0
+SER,2024-03,Punctuality,2,2,8.5,100.0
+SER,2024-03,Security,1,0,10.0,0.0
+SER,2024-03,Staff Behavior,2,1,10.0,50.0
+SER,2024-04,Cleanliness,2,1,5.5,50.0
+SER,2024-04,Coach Maintenance,2,2,1.5,100.0
+SER,2024-04,Punctuality,1,1,6.0,100.0
+SER,2024-04,Security,1,1,5.0,100.0
+SER,2024-04,Staff Behavior,4,1,4.75,25.0
+SER,2024-04,Water Availability,2,1,3.5,50.0
+SER,2024-05,Catering,4,2,6.0,50.0
+SER,2024-05,Cleanliness,1,0,10.0,0.0
+SER,2024-05,Coach Maintenance,2,1,3.5,50.0
+SER,2024-05,Punctuality,1,0,10.0,0.0
+SER,2024-05,Staff Behavior,5,1,7.4,20.0
+SER,2024-05,Water Availability,2,1,7.0,50.0
+SER,2024-06,Coach Maintenance,3,2,4.33,66.67
+SER,2024-06,Punctuality,1,1,2.0,100.0
+SER,2024-06,Security,3,1,5.0,33.33
+SER,2024-06,Staff Behavior,3,2,5.0,66.67
+SER,2024-06,Water Availability,2,0,8.0,0.0
+SER,2024-07,Catering,2,2,9.0,100.0
+SER,2024-07,Cleanliness,4,0,11.5,0.0
+SER,2024-07,Coach Maintenance,3,0,9.67,0.0
+SER,2024-07,Security,4,2,6.25,50.0
+SER,2024-07,Water Availability,4,2,6.25,50.0
+SER,2024-08,Catering,4,2,7.5,50.0
+SER,2024-08,Cleanliness,2,1,5.0,50.0
+SER,2024-08,Coach Maintenance,4,2,5.5,50.0
+SER,2024-08,Punctuality,1,1,7.0,100.0
+SER,2024-08,Security,1,0,13.0,0.0
+SER,2024-08,Staff Behavior,1,0,7.0,0.0
+SER,2024-08,Water Availability,2,2,5.0,100.0
+SER,2024-09,Catering,2,1,4.5,50.0
+SER,2024-09,Cleanliness,3,0,8.0,0.0
+SER,2024-09,Coach Maintenance,2,1,5.5,50.0
+SER,2024-09,Punctuality,4,2,8.0,50.0
+SER,2024-09,Staff Behavior,1,0,9.0,0.0
+SER,2024-09,Water Availability,3,1,5.67,33.33
+SER,2024-10,Catering,2,0,10.0,0.0
+SER,2024-10,Cleanliness,2,2,2.5,100.0
+SER,2024-10,Coach Maintenance,3,1,5.0,33.33
+SER,2024-10,Punctuality,3,2,4.0,66.67
+SER,2024-10,Security,4,3,5.75,75.0
+SER,2024-10,Staff Behavior,3,1,5.67,33.33
+SER,2024-10,Water Availability,3,1,7.67,33.33
+SER,2024-11,Catering,2,1,7.0,50.0
+SER,2024-11,Cleanliness,3,1,6.67,33.33
+SER,2024-11,Coach Maintenance,1,0,5.0,0.0
+SER,2024-11,Security,1,0,8.0,0.0
+SER,2024-11,Staff Behavior,2,1,3.0,50.0
+SER,2024-11,Water Availability,1,1,2.0,100.0
+SER,2024-12,Cleanliness,2,2,5.5,100.0
+SER,2024-12,Coach Maintenance,2,1,5.0,50.0
+SER,2024-12,Security,3,2,5.33,66.67
+SER,2024-12,Staff Behavior,2,1,8.0,50.0
+SER,2024-12,Water Availability,2,1,8.5,50.0
+SER,2025-01,Catering,3,2,3.67,66.67
+SER,2025-01,Cleanliness,4,3,5.75,75.0
+SER,2025-01,Punctuality,1,1,1.0,100.0
+SER,2025-01,Security,2,1,8.5,50.0
+SER,2025-01,Staff Behavior,3,2,5.33,66.67
+SER,2025-01,Water Availability,2,0,6.5,0.0
+SER,2025-02,Catering,3,1,7.0,33.33
+SER,2025-02,Cleanliness,2,2,3.0,100.0
+SER,2025-02,Coach Maintenance,4,1,7.75,25.0
+SER,2025-02,Punctuality,2,2,4.0,100.0
+SER,2025-02,Security,4,2,6.0,50.0
+SER,2025-02,Staff Behavior,2,2,4.5,100.0
+SER,2025-02,Water Availability,2,1,9.5,50.0
+SER,2025-03,Catering,2,2,5.0,100.0
+SER,2025-03,Cleanliness,4,1,8.0,25.0
+SER,2025-03,Coach Maintenance,2,1,10.0,50.0
+SER,2025-03,Punctuality,1,0,6.0,0.0
+SER,2025-03,Security,1,1,6.0,100.0
+SER,2025-03,Water Availability,2,1,7.0,50.0
+SER,2025-04,Catering,3,1,7.33,33.33
+SER,2025-04,Cleanliness,5,3,6.8,60.0
+SER,2025-04,Coach Maintenance,1,0,7.0,0.0
+SER,2025-04,Punctuality,1,1,1.0,100.0
+SER,2025-04,Staff Behavior,1,1,1.0,100.0
+SER,2025-05,Cleanliness,1,0,15.0,0.0
+SER,2025-05,Coach Maintenance,3,2,7.0,66.67
+SER,2025-05,Punctuality,1,0,6.0,0.0
+SER,2025-05,Security,3,1,9.0,33.33
+SER,2025-05,Staff Behavior,2,1,7.5,50.0
+SER,2025-05,Water Availability,3,0,11.67,0.0
+SER,2025-06,Catering,2,1,4.5,50.0
+SER,2025-06,Cleanliness,2,2,3.5,100.0
+SER,2025-06,Coach Maintenance,2,1,4.5,50.0
+SER,2025-06,Punctuality,1,1,5.0,100.0
+SER,2025-06,Staff Behavior,1,0,8.0,0.0
+SER,2025-06,Water Availability,4,2,7.0,50.0
+SER,2025-07,Catering,1,0,10.0,0.0
+SER,2025-07,Cleanliness,1,0,7.0,0.0
+SER,2025-07,Coach Maintenance,2,1,7.0,50.0
+SER,2025-07,Punctuality,2,0,8.0,0.0
+SER,2025-07,Security,1,1,4.0,100.0
+SER,2025-07,Staff Behavior,1,0,7.0,0.0
+SER,2025-07,Water Availability,1,0,9.0,0.0
+SER,2025-08,Catering,1,1,7.0,100.0
+SER,2025-08,Cleanliness,1,0,11.0,0.0
+SER,2025-08,Coach Maintenance,1,0,12.0,0.0
+SER,2025-08,Water Availability,3,2,7.67,66.67
+SER,2025-09,Catering,1,1,3.0,100.0
+SER,2025-09,Cleanliness,1,0,5.0,0.0
+SER,2025-09,Coach Maintenance,1,0,15.0,0.0
+SER,2025-09,Punctuality,1,1,4.0,100.0
+SER,2025-09,Staff Behavior,1,0,11.0,0.0
+SER,2025-10,Catering,3,2,4.67,66.67
+SER,2025-10,Cleanliness,4,3,2.25,75.0
+SER,2025-10,Coach Maintenance,3,2,3.0,66.67
+SER,2025-10,Punctuality,1,1,4.0,100.0
+SER,2025-10,Staff Behavior,1,0,6.0,0.0
+SER,2025-10,Water Availability,1,1,4.0,100.0
+SER,2025-11,Catering,4,2,8.0,50.0
+SER,2025-11,Cleanliness,1,1,1.0,100.0
+SER,2025-11,Coach Maintenance,2,1,8.0,50.0
+SER,2025-11,Punctuality,3,0,12.0,0.0
+SER,2025-11,Security,1,0,9.0,0.0
+SER,2025-11,Water Availability,3,2,4.33,66.67
+SER,2025-12,Catering,4,1,5.5,25.0
+SER,2025-12,Cleanliness,1,1,2.0,100.0
+SER,2025-12,Coach Maintenance,1,1,4.0,100.0
+SER,2025-12,Punctuality,3,2,7.0,66.67
+SER,2025-12,Security,1,0,11.0,0.0
+SER,2025-12,Staff Behavior,3,2,3.33,66.67
+SER,2025-12,Water Availability,3,2,9.33,66.67
+SR,2024-01,Cleanliness,1,0,12.0,0.0
+SR,2024-01,Coach Maintenance,2,1,5.0,50.0
+SR,2024-01,Staff Behavior,1,0,6.0,0.0
+SR,2024-01,Water Availability,2,0,7.0,0.0
+SR,2024-02,Catering,1,1,2.0,100.0
+SR,2024-02,Cleanliness,4,0,6.75,0.0
+SR,2024-02,Coach Maintenance,2,2,5.0,100.0
+SR,2024-02,Punctuality,2,1,6.0,50.0
+SR,2024-02,Security,4,1,7.25,25.0
+SR,2024-02,Staff Behavior,3,2,5.33,66.67
+SR,2024-02,Water Availability,2,1,5.5,50.0
+SR,2024-03,Catering,2,0,9.5,0.0
+SR,2024-03,Cleanliness,1,1,5.0,100.0
+SR,2024-03,Coach Maintenance,1,1,5.0,100.0
+SR,2024-03,Punctuality,3,2,5.67,66.67
+SR,2024-03,Security,4,1,5.75,25.0
+SR,2024-03,Water Availability,3,1,6.0,33.33
+SR,2024-04,Catering,2,2,1.5,100.0
+SR,2024-04,Cleanliness,3,0,7.67,0.0
+SR,2024-04,Coach Maintenance,2,1,8.5,50.0
+SR,2024-04,Punctuality,3,2,7.67,66.67
+SR,2024-04,Staff Behavior,2,2,5.5,100.0
+SR,2024-04,Water Availability,1,0,9.0,0.0
+SR,2024-05,Catering,1,1,1.0,100.0
+SR,2024-05,Cleanliness,1,1,2.0,100.0
+SR,2024-05,Coach Maintenance,2,1,3.0,50.0
+SR,2024-05,Punctuality,2,2,3.5,100.0
+SR,2024-05,Security,1,1,5.0,100.0
+SR,2024-05,Staff Behavior,2,2,2.0,100.0
+SR,2024-05,Water Availability,3,2,5.33,66.67
+SR,2024-06,Catering,3,3,3.33,100.0
+SR,2024-06,Cleanliness,3,2,5.33,66.67
+SR,2024-06,Coach Maintenance,2,1,7.5,50.0
+SR,2024-06,Punctuality,3,3,5.67,100.0
+SR,2024-06,Security,1,0,10.0,0.0
+SR,2024-06,Staff Behavior,2,1,6.5,50.0
+SR,2024-06,Water Availability,6,2,6.17,33.33
+SR,2024-07,Catering,2,1,6.0,50.0
+SR,2024-07,Cleanliness,3,2,4.33,66.67
+SR,2024-07,Coach Maintenance,2,1,9.5,50.0
+SR,2024-07,Punctuality,2,0,11.5,0.0
+SR,2024-07,Security,1,0,5.0,0.0
+SR,2024-07,Staff Behavior,3,2,6.0,66.67
+SR,2024-07,Water Availability,3,1,7.0,33.33
+SR,2024-08,Catering,1,0,11.0,0.0
+SR,2024-08,Cleanliness,3,2,7.0,66.67
+SR,2024-08,Coach Maintenance,2,0,12.0,0.0
+SR,2024-08,Punctuality,1,0,15.0,0.0
+SR,2024-08,Security,4,2,8.0,50.0
+SR,2024-08,Staff Behavior,4,2,6.5,50.0
+SR,2024-08,Water Availability,2,1,5.0,50.0
+SR,2024-09,Catering,2,0,8.0,0.0
+SR,2024-09,Cleanliness,2,1,4.5,50.0
+SR,2024-09,Coach Maintenance,3,2,3.67,66.67
+SR,2024-09,Punctuality,3,0,7.67,0.0
+SR,2024-09,Staff Behavior,3,2,4.33,66.67
+SR,2024-09,Water Availability,3,0,12.67,0.0
+SR,2024-10,Catering,3,2,5.33,66.67
+SR,2024-10,Punctuality,2,1,6.0,50.0
+SR,2024-10,Security,3,2,5.0,66.67
+SR,2024-10,Water Availability,4,2,6.25,50.0
+SR,2024-11,Catering,1,0,14.0,0.0
+SR,2024-11,Cleanliness,2,1,5.0,50.0
+SR,2024-11,Coach Maintenance,3,3,2.67,100.0
+SR,2024-11,Punctuality,1,0,13.0,0.0
+SR,2024-11,Security,4,2,6.0,50.0
+SR,2024-11,Water Availability,3,2,7.0,66.67
+SR,2024-12,Catering,2,1,4.5,50.0
+SR,2024-12,Cleanliness,3,1,5.67,33.33
+SR,2024-12,Coach Maintenance,2,1,6.5,50.0
+SR,2024-12,Punctuality,1,1,2.0,100.0
+SR,2024-12,Security,2,1,9.5,50.0
+SR,2024-12,Staff Behavior,3,3,2.67,100.0
+SR,2024-12,Water Availability,3,2,8.33,66.67
+SR,2025-01,Catering,2,0,8.0,0.0
+SR,2025-01,Cleanliness,4,3,4.0,75.0
+SR,2025-01,Coach Maintenance,2,1,4.5,50.0
+SR,2025-01,Punctuality,2,1,9.0,50.0
+SR,2025-01,Security,4,2,6.25,50.0
+SR,2025-01,Staff Behavior,1,1,4.0,100.0
+SR,2025-01,Water Availability,1,0,5.0,0.0
+SR,2025-02,Catering,2,1,7.0,50.0
+SR,2025-02,Cleanliness,2,1,5.0,50.0
+SR,2025-02,Coach Maintenance,1,1,8.0,100.0
+SR,2025-02,Punctuality,5,3,7.2,60.0
+SR,2025-02,Security,2,2,7.0,100.0
+SR,2025-02,Staff Behavior,1,1,5.0,100.0
+SR,2025-02,Water Availability,2,1,8.0,50.0
+SR,2025-03,Catering,3,1,8.0,33.33
+SR,2025-03,Cleanliness,2,1,5.0,50.0
+SR,2025-03,Coach Maintenance,5,3,3.2,60.0
+SR,2025-03,Punctuality,3,0,8.33,0.0
+SR,2025-03,Security,5,3,7.0,60.0
+SR,2025-03,Staff Behavior,1,0,10.0,0.0
+SR,2025-03,Water Availability,3,1,7.0,33.33
+SR,2025-04,Catering,2,0,8.0,0.0
+SR,2025-04,Cleanliness,4,2,6.75,50.0
+SR,2025-04,Punctuality,7,2,7.57,28.57
+SR,2025-04,Security,3,1,9.0,33.33
+SR,2025-04,Staff Behavior,3,1,4.33,33.33
+SR,2025-04,Water Availability,4,2,7.25,50.0
+SR,2025-05,Catering,1,0,11.0,0.0
+SR,2025-05,Cleanliness,3,1,8.33,33.33
+SR,2025-05,Coach Maintenance,2,1,8.0,50.0
+SR,2025-05,Punctuality,2,0,10.5,0.0
+SR,2025-05,Security,2,1,4.0,50.0
+SR,2025-05,Staff Behavior,3,2,6.33,66.67
+SR,2025-05,Water Availability,1,0,10.0,0.0
+SR,2025-06,Cleanliness,2,2,3.0,100.0
+SR,2025-06,Coach Maintenance,1,0,5.0,0.0
+SR,2025-06,Punctuality,2,2,4.5,100.0
+SR,2025-06,Security,3,2,5.67,66.67
+SR,2025-06,Staff Behavior,3,3,5.0,100.0
+SR,2025-06,Water Availability,4,1,8.5,25.0
+SR,2025-07,Catering,4,3,3.5,75.0
+SR,2025-07,Cleanliness,3,2,3.67,66.67
+SR,2025-07,Coach Maintenance,1,0,15.0,0.0
+SR,2025-07,Punctuality,2,2,2.5,100.0
+SR,2025-07,Staff Behavior,2,1,9.0,50.0
+SR,2025-07,Water Availability,2,1,7.5,50.0
+SR,2025-08,Catering,3,2,2.0,66.67
+SR,2025-08,Cleanliness,2,1,9.0,50.0
+SR,2025-08,Punctuality,7,5,5.57,71.43
+SR,2025-08,Security,4,1,7.75,25.0
+SR,2025-08,Staff Behavior,1,1,1.0,100.0
+SR,2025-08,Water Availability,4,2,7.0,50.0
+SR,2025-09,Catering,2,1,7.0,50.0
+SR,2025-09,Coach Maintenance,1,0,7.0,0.0
+SR,2025-09,Punctuality,5,4,5.8,80.0
+SR,2025-09,Staff Behavior,2,1,6.5,50.0
+SR,2025-09,Water Availability,3,2,3.67,66.67
+SR,2025-10,Catering,2,0,7.0,0.0
+SR,2025-10,Cleanliness,2,1,3.5,50.0
+SR,2025-10,Coach Maintenance,4,3,3.75,75.0
+SR,2025-10,Punctuality,3,2,8.0,66.67
+SR,2025-10,Security,2,1,6.0,50.0
+SR,2025-10,Staff Behavior,2,1,8.5,50.0
+SR,2025-10,Water Availability,3,3,5.33,100.0
+SR,2025-11,Catering,6,2,6.67,33.33
+SR,2025-11,Cleanliness,2,0,13.0,0.0
+SR,2025-11,Coach Maintenance,2,0,10.0,0.0
+SR,2025-11,Punctuality,3,1,4.67,33.33
+SR,2025-11,Security,3,0,8.33,0.0
+SR,2025-11,Staff Behavior,5,3,5.2,60.0
+SR,2025-11,Water Availability,1,1,7.0,100.0
+SR,2025-12,Catering,7,5,6.43,71.43
+SR,2025-12,Cleanliness,3,2,7.67,66.67
+SR,2025-12,Coach Maintenance,3,2,7.67,66.67
+SR,2025-12,Staff Behavior,6,3,5.5,50.0
+SR,2025-12,Water Availability,3,2,6.0,66.67
+WR,2024-01,Catering,1,0,5.0,0.0
+WR,2024-01,Cleanliness,5,4,5.2,80.0
+WR,2024-01,Coach Maintenance,4,1,7.5,25.0
+WR,2024-01,Punctuality,7,5,4.86,71.43
+WR,2024-01,Security,2,2,4.5,100.0
+WR,2024-01,Staff Behavior,1,0,15.0,0.0
+WR,2024-01,Water Availability,4,3,5.75,75.0
+WR,2024-02,Catering,6,5,4.33,83.33
+WR,2024-02,Cleanliness,5,2,9.4,40.0
+WR,2024-02,Coach Maintenance,3,1,7.67,33.33
+WR,2024-02,Punctuality,5,4,4.8,80.0
+WR,2024-02,Security,4,2,5.75,50.0
+WR,2024-02,Staff Behavior,5,3,3.8,60.0
+WR,2024-02,Water Availability,6,3,6.0,50.0
+WR,2024-03,Catering,6,5,5.33,83.33
+WR,2024-03,Cleanliness,4,0,6.5,0.0
+WR,2024-03,Coach Maintenance,4,4,4.25,100.0
+WR,2024-03,Punctuality,4,3,3.25,75.0
+WR,2024-03,Security,2,1,6.5,50.0
+WR,2024-03,Staff Behavior,3,2,3.0,66.67
+WR,2024-03,Water Availability,1,0,8.0,0.0
+WR,2024-04,Catering,7,3,8.0,42.86
+WR,2024-04,Cleanliness,4,4,6.0,100.0
+WR,2024-04,Coach Maintenance,2,0,9.0,0.0
+WR,2024-04,Punctuality,2,0,10.0,0.0
+WR,2024-04,Security,9,3,7.22,33.33
+WR,2024-04,Staff Behavior,3,2,5.67,66.67
+WR,2024-04,Water Availability,3,3,4.33,100.0
+WR,2024-05,Catering,1,1,2.0,100.0
+WR,2024-05,Coach Maintenance,4,3,5.25,75.0
+WR,2024-05,Punctuality,4,1,5.25,25.0
+WR,2024-05,Security,3,1,7.0,33.33
+WR,2024-05,Staff Behavior,3,1,7.0,33.33
+WR,2024-05,Water Availability,7,2,6.14,28.57
+WR,2024-06,Catering,7,3,7.29,42.86
+WR,2024-06,Cleanliness,3,1,8.0,33.33
+WR,2024-06,Coach Maintenance,3,0,8.33,0.0
+WR,2024-06,Punctuality,5,4,3.4,80.0
+WR,2024-06,Security,4,3,6.75,75.0
+WR,2024-06,Staff Behavior,5,1,9.8,20.0
+WR,2024-06,Water Availability,1,0,14.0,0.0
+WR,2024-07,Catering,1,0,8.0,0.0
+WR,2024-07,Cleanliness,3,3,2.67,100.0
+WR,2024-07,Coach Maintenance,5,2,6.4,40.0
+WR,2024-07,Punctuality,4,2,4.25,50.0
+WR,2024-07,Security,2,0,6.0,0.0
+WR,2024-07,Staff Behavior,5,2,7.6,40.0
+WR,2024-07,Water Availability,3,0,10.0,0.0
+WR,2024-08,Catering,5,3,6.0,60.0
+WR,2024-08,Cleanliness,4,3,7.5,75.0
+WR,2024-08,Security,2,2,3.5,100.0
+WR,2024-08,Staff Behavior,3,3,4.33,100.0
+WR,2024-08,Water Availability,7,2,6.14,28.57
+WR,2024-09,Catering,3,3,2.67,100.0
+WR,2024-09,Cleanliness,2,0,5.5,0.0
+WR,2024-09,Coach Maintenance,5,4,4.8,80.0
+WR,2024-09,Punctuality,3,1,8.0,33.33
+WR,2024-09,Staff Behavior,3,2,6.33,66.67
+WR,2024-09,Water Availability,6,4,4.33,66.67
+WR,2024-10,Catering,10,6,5.6,60.0
+WR,2024-10,Cleanliness,5,1,6.8,20.0
+WR,2024-10,Coach Maintenance,2,0,9.5,0.0
+WR,2024-10,Punctuality,10,8,4.5,80.0
+WR,2024-10,Security,2,1,7.0,50.0
+WR,2024-10,Staff Behavior,5,2,6.8,40.0
+WR,2024-10,Water Availability,1,0,8.0,0.0
+WR,2024-11,Catering,1,0,6.0,0.0
+WR,2024-11,Cleanliness,7,4,5.71,57.14
+WR,2024-11,Coach Maintenance,3,2,8.33,66.67
+WR,2024-11,Punctuality,3,2,3.0,66.67
+WR,2024-11,Security,2,0,7.0,0.0
+WR,2024-11,Staff Behavior,5,2,6.8,40.0
+WR,2024-11,Water Availability,2,1,3.5,50.0
+WR,2024-12,Cleanliness,4,1,5.5,25.0
+WR,2024-12,Coach Maintenance,3,3,2.0,100.0
+WR,2024-12,Punctuality,3,1,4.33,33.33
+WR,2024-12,Security,6,1,5.83,16.67
+WR,2024-12,Staff Behavior,3,2,6.33,66.67
+WR,2024-12,Water Availability,7,4,6.86,57.14
+WR,2025-01,Catering,1,0,6.0,0.0
+WR,2025-01,Cleanliness,2,0,9.0,0.0
+WR,2025-01,Coach Maintenance,3,1,7.0,33.33
+WR,2025-01,Security,4,2,5.75,50.0
+WR,2025-01,Staff Behavior,3,1,7.67,33.33
+WR,2025-01,Water Availability,5,3,8.4,60.0
+WR,2025-02,Catering,1,1,2.0,100.0
+WR,2025-02,Cleanliness,1,1,2.0,100.0
+WR,2025-02,Coach Maintenance,4,2,7.5,50.0
+WR,2025-02,Punctuality,4,3,5.5,75.0
+WR,2025-02,Security,1,1,6.0,100.0
+WR,2025-02,Staff Behavior,1,0,10.0,0.0
+WR,2025-02,Water Availability,1,1,3.0,100.0
+WR,2025-03,Catering,3,2,4.0,66.67
+WR,2025-03,Cleanliness,4,1,4.25,25.0
+WR,2025-03,Coach Maintenance,2,0,6.0,0.0
+WR,2025-03,Security,3,1,6.33,33.33
+WR,2025-03,Staff Behavior,2,1,6.5,50.0
+WR,2025-03,Water Availability,2,2,5.0,100.0
+WR,2025-04,Catering,3,2,4.0,66.67
+WR,2025-04,Cleanliness,1,0,8.0,0.0
+WR,2025-04,Coach Maintenance,3,2,6.0,66.67
+WR,2025-04,Punctuality,6,1,6.83,16.67
+WR,2025-04,Security,1,0,9.0,0.0
+WR,2025-04,Staff Behavior,1,1,1.0,100.0
+WR,2025-04,Water Availability,3,3,6.67,100.0
+WR,2025-05,Catering,2,2,4.5,100.0
+WR,2025-05,Cleanliness,5,2,5.6,40.0
+WR,2025-05,Coach Maintenance,3,1,7.33,33.33
+WR,2025-05,Punctuality,6,1,6.33,16.67
+WR,2025-05,Security,2,1,4.5,50.0
+WR,2025-05,Staff Behavior,2,1,5.0,50.0
+WR,2025-05,Water Availability,1,0,4.0,0.0
+WR,2025-06,Catering,2,1,2.5,50.0
+WR,2025-06,Cleanliness,2,1,8.0,50.0
+WR,2025-06,Coach Maintenance,2,1,8.0,50.0
+WR,2025-06,Punctuality,2,1,7.0,50.0
+WR,2025-06,Security,3,3,2.33,100.0
+WR,2025-06,Staff Behavior,3,2,6.33,66.67
+WR,2025-06,Water Availability,7,3,6.71,42.86
+WR,2025-07,Catering,4,3,5.5,75.0
+WR,2025-07,Cleanliness,1,1,7.0,100.0
+WR,2025-07,Coach Maintenance,4,3,6.0,75.0
+WR,2025-07,Punctuality,2,1,5.0,50.0
+WR,2025-07,Security,6,4,7.0,66.67
+WR,2025-07,Water Availability,1,1,1.0,100.0
+WR,2025-08,Catering,4,1,8.0,25.0
+WR,2025-08,Cleanliness,5,1,7.8,20.0
+WR,2025-08,Coach Maintenance,5,4,5.4,80.0
+WR,2025-08,Punctuality,3,1,6.33,33.33
+WR,2025-08,Security,5,3,5.4,60.0
+WR,2025-08,Staff Behavior,1,1,5.0,100.0
+WR,2025-08,Water Availability,1,0,11.0,0.0
+WR,2025-09,Catering,5,3,4.4,60.0
+WR,2025-09,Cleanliness,1,0,6.0,0.0
+WR,2025-09,Coach Maintenance,8,4,5.5,50.0
+WR,2025-09,Punctuality,2,2,3.0,100.0
+WR,2025-09,Security,4,3,5.0,75.0
+WR,2025-09,Staff Behavior,5,2,6.2,40.0
+WR,2025-09,Water Availability,3,1,6.67,33.33
+WR,2025-10,Catering,3,2,6.0,66.67
+WR,2025-10,Cleanliness,3,2,7.33,66.67
+WR,2025-10,Coach Maintenance,6,5,4.83,83.33
+WR,2025-10,Punctuality,6,3,6.83,50.0
+WR,2025-10,Security,4,2,4.5,50.0
+WR,2025-10,Staff Behavior,2,1,10.5,50.0
+WR,2025-10,Water Availability,5,2,8.2,40.0
+WR,2025-11,Catering,4,1,8.25,25.0
+WR,2025-11,Cleanliness,6,5,4.67,83.33
+WR,2025-11,Coach Maintenance,6,3,5.83,50.0
+WR,2025-11,Punctuality,4,2,6.25,50.0
+WR,2025-11,Security,3,2,6.67,66.67
+WR,2025-11,Staff Behavior,4,2,7.5,50.0
+WR,2025-11,Water Availability,2,0,6.0,0.0
+WR,2025-12,Catering,9,3,9.22,33.33
+WR,2025-12,Cleanliness,4,1,7.25,25.0
+WR,2025-12,Coach Maintenance,4,3,2.75,75.0
+WR,2025-12,Punctuality,5,5,4.8,100.0
+WR,2025-12,Security,4,2,5.0,50.0
+WR,2025-12,Staff Behavior,3,0,8.67,0.0
+WR,2025-12,Water Availability,3,0,8.33,0.0
